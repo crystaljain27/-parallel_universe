@@ -8,8 +8,12 @@
 
 ---
 
-## 🔗 Live Production Web Demo
-🚀 **Try the Live App:** [https://web-one-pi-uacai8amfu.vercel.app](https://web-one-pi-uacai8amfu.vercel.app)
+## 🔗 Deployment & Live Links
+
+| Component | Stack | Status | Live Link / Reference |
+| :--- | :--- | :--- | :--- |
+| 🌐 **Frontend Web App** | Flutter Web (Vercel) | 🟢 Live | [https://web-one-pi-uacai8amfu.vercel.app](https://web-one-pi-uacai8amfu.vercel.app) |
+| ⚙️ **Backend API Server** | Python (FastAPI / Groq Engine) | 🟢 Active | [Backend Service API / `backend/`](file:///c:/Users/Crystal/Downloads/parallel_universe/backend) |
 
 ---
 
