@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715004231361",
+    "project_id": "parallel-universe-crysta-1f32b",
+    "storage_bucket": "parallel-universe-crysta-1f32b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715004231361:android:d6a5a1a6954dae49695e40",
+        "android_client_info": {
+          "package_name": "com.example.parallel_universe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAII7EdXeXkMkeXCBap_ke2Aeh0wCP8Me8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
